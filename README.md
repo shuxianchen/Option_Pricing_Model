@@ -27,14 +27,14 @@ Blue tabs are the internal implementation of the binomial pricing model.
 
   ![example_input](https://github.com/shuxianchen/Option_Pricing_Model/blob/main/Supporting%20Files/example_input.jpg)
 
-- The option price and greeks will be reflected in the output table. Do not change any cells in output and intermediate table. They usually contain formulas and that value will be changed by the calculator.
+- The option price and greeks will be reflected instantly in the output table. Do not change any cells in output or intermediate table. They usually contain formulas and that value will be changed by the calculator,not the user.
  
   ![example_output](https://github.com/shuxianchen/Option_Pricing_Model/blob/main/Supporting%20Files/example_output.jpg)
  
-- Click on the corresponding blue tab to see bionimal lattic for underlying stock pirce and option price
+- Click on the corresponding blue tab to see bionimal lattic for underlying stock pirce and option price.
 
 ### Excel Techniques I Used
  - Complex logic in formulas to implement binomial pricing model.
  - Separating of input, calculation, and output during model design for clear and maintainable spreadsheet.
- - Naming cells and ranges to make formulas more readable and less error-prone
-- Data validation,such as creating drop-down lists, to restrict the type of data that users enter into a cell.						
+ - Naming cells and ranges to make formulas more readable and less error-prone.
+ - Data validation,such as creating drop-down lists, to restrict the type of data that users enter into a cell.						
