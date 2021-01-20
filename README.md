@@ -1,5 +1,6 @@
 # Option Pricing Model
 This is a model that calculates option values by using the Black-Scholes formulas and binomial pricing model.
+
 If you have basic understanding of options, using the calculator should be very simple. It does not require any particular Excel skills, other that entering values in cells and selecting items in dropdown boxes.
 
 ### Supported Options
