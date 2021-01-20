@@ -24,7 +24,7 @@ Blue tabs are the internal implementation of the binomial pricing model.
 
 - Enter all the paramaters required in the input table as shown below. Yellow cells are for inputs. Overwrite the values in yellow cells to change inputs or preference.
 
-  ![example_input](Supporting Files/example_input.jpg)
+  ![example_input](https://github.com/shuxianchen/Option_Pricing_Model/blob/main/Supporting%20Files/example_input.jpg)
 
 - The option price and greeks will be reflected in the output table. Do not change any cells in output and intermediate table. They usually contain formulas and that value will be changed by the calculator.
 
